@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard (Power BI)
+#  Sales Performance Dashboard (Power BI)
 
 This dashboard is the **final project** in my **Power BI Data Analysis Learning Series** on YouTube.  
 It demonstrates how to clean, model, analyze, and visualize sales performance data in a clear, interactive, and business-focused way.
@@ -7,7 +7,7 @@ It demonstrates how to clean, model, analyze, and visualize sales performance da
 
 ---
 
-## 🚀 Project Objective
+##  Project Objective
 
 The goal of this dashboard is to:
 - Provide a **comprehensive view** of company sales performance.
@@ -17,7 +17,7 @@ The goal of this dashboard is to:
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -53,7 +53,7 @@ Displays high-level business metrics:
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - Some supervisors contribute a **significantly higher percentage** of revenue compared to others, indicating both **strong performers** and **opportunities for coaching**.
 - **Product groups** such as *Wheat Flour* and *Oil* show the highest revenue impact, making them strategic focus categories.
@@ -62,7 +62,7 @@ Displays high-level business metrics:
 
 ---
 
-## 🎯 What This Dashboard Helps Answer
+##  What This Dashboard Helps Answer
 
 ✔ Which sales channels contribute most to revenue?  
 ✔ Who are the top-performing sales supervisors and salespersons?  
@@ -72,7 +72,7 @@ Displays high-level business metrics:
 
 ---
 
-## 🧩 Filters & Interactivity
+##  Filters & Interactivity
 
 Users can filter the dashboard by:
 - Year (2019 / 2020 / 2021)
@@ -86,7 +86,7 @@ Every visual updates **dynamically** to reflect chosen filters.
 ---
 
 
-## ⭐ Support & Contribution
+##  Support & Contribution
 
 If you found this helpful, please consider:
 - Starring ⭐ the repository
@@ -95,7 +95,7 @@ If you found this helpful, please consider:
 
 ---
 
-## 📩 Contact
+##  Contact
 
 For collaboration or questions:
 - **Name:** Abdelrahman Taha
